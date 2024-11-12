@@ -1,5 +1,5 @@
 import 'package:isar/isar.dart';
 
 class Note {
-  Id id = Isar.autoIncrement;
+  //Id id = Isar.autoIncrement;
 }
